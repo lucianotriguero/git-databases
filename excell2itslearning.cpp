@@ -3,6 +3,7 @@
 //          to a cvs file to be imported by it's learning           //
 //Usage: excell2itslearning infile outfile                          //
 //Writen by: L.Triguero (LT)                                        //
+//Example: Developing with git.
 //////////////////////////////////////////////////////////////////////
 
 #include <cstdlib>
